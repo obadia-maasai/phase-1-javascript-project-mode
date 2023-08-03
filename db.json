@@ -1,0 +1,98 @@
+{
+  "leaveRequests": [
+    {
+      "id": 1,
+      "name": "Obadia kimeli",
+      "leaveType": "Vacation",
+      "startDate": "2023-05-21",
+      "endDate": "2023-06-30",
+      "reason": "Family vacation",
+      "duration": 5
+    },
+    {
+      "id": 2,
+      "name": "Philemon limo",
+      "leaveType": "Sick Leave",
+      "startDate": "2023-08-10",
+      "endDate": "2023-08-11",
+      "reason": "Fever",
+      "duration": 2
+    },
+    {
+      "name": "Eliab karan",
+      "leaveType": "Sick Leave",
+      "startDate": "2023-04-15",
+      "endDate": "2023-04-26",
+      "duration": "11",
+      "reason": "I have been sick for a long time ",
+      "id": 3
+    },
+    {
+      "name": "Benedict langat",
+      "leaveType": "Partanity Leave = 15 days",
+      "startDate": "2023-05-01",
+      "endDate": "2023-06-02",
+      "duration": "70",
+      "reason": "family issue",
+      "id": 4
+    },
+    {
+      "name": "kelvin kim",
+      "leaveType": "Personal Leave",
+      "startDate": "2023-08-06",
+      "endDate": "2023-08-13",
+      "reason": "family issues",
+      "id": 5
+    },
+    {
+      "name": "Sharwin limo",
+      "leaveType": "Sick Leave",
+      "startDate": "2023-08-10",
+      "endDate": "2023-08-17",
+      "reason": "check up",
+      "id": 6
+    },
+    {
+      "name": "caren jerop",
+      "leaveType": "Maternity Leave",
+      "startDate": "2023-08-03",
+      "endDate": "2023-08-17",
+      "reason": "deliver",
+      "id": 7
+    },
+    {
+      "name": "Daisy Machoka",
+      "leaveType": "Personal Leave",
+      "startDate": "2023-08-01",
+      "endDate": "2023-08-08",
+      "reason": "personal issues",
+      "id": 8
+    },
+    {
+      "name": "Truebacker Brian",
+      "leaveType": "Sick Leave",
+      "startDate": "2023-08-01",
+      "endDate": "2023-08-31",
+      "reason": "medical",
+      "id": 9
+    },
+    {
+      "name": "Rownie Tarus",
+      "leaveType": "Paternity Leave",
+      "startDate": "2023-08-02",
+      "endDate": "2023-08-10",
+      "reason": "medical",
+      "duration": {},
+      "id": 10
+    },
+    {
+      "name": "Cornelius limo",
+      "leaveType": "Sick Leave",
+      "startDate": "2023-08-01",
+      "endDate": "2023-08-08",
+      "reason": "madical",
+      "duration": "7",
+      "id": 11
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Employee Leave Management System</title>
+  <link rel="stylesheet" href="main.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Employee Leave Management System</h1>
+    <form id="leave-form">
+      <label for="employee-name">Name:</label>
+      <input type="text" id="employee-name" required>
+
+      <label for="leave-type">Leave Type:</label>
+      <select id="leave-type" required>
+        <option value="Vacation">Vacation</option>
+        <option value="Sick Leave">Sick Leave</option>
+        <option value="Personal Leave">Personal Leave</option>
+        <option value="Maternity Leave">Maternity Leave</option>
+        <option value="Paternity Leave">Paternity Leave</option>
+        <option value="Family leave">Family Leave</option>
+      </select>
+
+      <label for="start-date">Start Date:</label>
+      <input type="date" id="start-date" required>
+
+      <label for="end-date">End Date:</label>
+      <input type="date" id="end-date" onchange="calculateDuration()"required>
+
+      <label for="duration">Duration:</label>
+      <input type="number" id="duration" required>
+
+
+      <label for="reason">Reason:</label>
+      <textarea id="reason" required></textarea>
+
+      <button type="submit">Submit Request</button>
+    </form>
+
+    <h2>Leave Requests</h2>
+    <table id="leave-table">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Leave Type</th>
+          <th>Start Date</th>
+          <th>End Date</th>
+          <th>duration</th>
+          <th>Reason</th>
+        </tr>
+      </thead>
+      <tbody id="leave-requests">
+       
+      </tbody>
+    </table>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
