@@ -37,62 +37,67 @@
       "id": 4
     },
     {
-      "name": "kelvin kim",
-      "leaveType": "Personal Leave",
-      "startDate": "2023-08-06",
-      "endDate": "2023-08-13",
-      "reason": "family issues",
-      "id": 5
-    },
-    {
-      "name": "Sharwin limo",
-      "leaveType": "Sick Leave",
-      "startDate": "2023-08-10",
-      "endDate": "2023-08-17",
-      "reason": "check up",
-      "id": 6
-    },
-    {
-      "name": "caren jerop",
+      "name": "IRINE BEREN",
       "leaveType": "Maternity Leave",
-      "startDate": "2023-08-03",
-      "endDate": "2023-08-17",
-      "reason": "deliver",
-      "id": 7
-    },
-    {
-      "name": "Daisy Machoka",
-      "leaveType": "Personal Leave",
       "startDate": "2023-08-01",
-      "endDate": "2023-08-08",
-      "reason": "personal issues",
-      "id": 8
+      "endDate": "2023-11-03",
+      "reason": "She is pregnant ",
+      "duration": "94",
+      "id": 12
     },
     {
-      "name": "Truebacker Brian",
-      "leaveType": "Sick Leave",
+      "name": "kelvin lagat",
+      "leaveType": "Personal Leave",
+      "startDate": "2023-07-31",
+      "endDate": "2023-08-28",
+      "reason": "Family issues",
+      "duration": "28",
+      "id": 13
+    },
+    {
+      "name": "vivian chumba",
+      "leaveType": "Family leave",
+      "startDate": "2023-08-10",
+      "endDate": "2023-08-20",
+      "reason": "Family issues",
+      "duration": "10",
+      "id": 14
+    },
+    {
+      "name": "Brian Kiplagat",
+      "leaveType": "Family leave",
+      "startDate": "2023-08-03",
+      "endDate": "2023-08-03",
+      "reason": "family meeting",
+      "duration": "0",
+      "id": 15
+    },
+    {
+      "name": "Mercy Chepng'etich",
+      "leaveType": "Maternity Leave",
       "startDate": "2023-08-01",
       "endDate": "2023-08-31",
-      "reason": "medical",
-      "id": 9
+      "reason": "maternity leave for some time ",
+      "duration": "30",
+      "id": 16
     },
     {
-      "name": "Rownie Tarus",
-      "leaveType": "Paternity Leave",
-      "startDate": "2023-08-02",
-      "endDate": "2023-08-10",
-      "reason": "medical",
-      "duration": {},
-      "id": 10
-    },
-    {
-      "name": "Cornelius limo",
-      "leaveType": "Sick Leave",
+      "name": "Michael Mutunga",
+      "leaveType": "Personal Leave",
       "startDate": "2023-08-01",
-      "endDate": "2023-08-08",
-      "reason": "madical",
-      "duration": "7",
-      "id": 11
+      "endDate": "2023-08-22",
+      "reason": "Family meeting",
+      "duration": "21",
+      "id": 17
+    },
+    {
+      "name": "Hamphrey Njuguna",
+      "leaveType": "Personal Leave",
+      "startDate": "2023-08-01",
+      "endDate": "2023-08-31",
+      "reason": "Family issues",
+      "duration": "30",
+      "id": 18
     }
   ]
 }

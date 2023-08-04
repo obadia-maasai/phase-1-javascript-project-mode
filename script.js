@@ -112,8 +112,8 @@ const handleSubmit = async (event) => {
   }
 };
 
-document.getElementById('leave-form').addEventListener('submit', handleSubmit);
-
+let leaveForm = document.getElementById('leave-form');
+leaveForm.addEventListener('submit', handleSubmit);
 
 document.addEventListener('DOMContentLoaded', async () => {
   const leaveRequests = fetchLeaveRequests();
