@@ -98,6 +98,15 @@
       "reason": "Family issues",
       "duration": "30",
       "id": 18
+    },
+    {
+      "name": "kelvin kim",
+      "leaveType": "Vacation",
+      "startDate": "2023-08-01",
+      "endDate": "2023-08-14",
+      "reason": "seek medicine",
+      "duration": "13",
+      "id": 19
     }
   ]
 }

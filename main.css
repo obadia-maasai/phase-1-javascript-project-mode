@@ -61,5 +61,30 @@ body {
     text-align: center;
     background-color: beige;
   }
+
+  footer {
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer p {
+    margin-bottom: 10px;
+  }
+  
+  footer ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  footer ul li {
+    margin-bottom: 5px;
+  }
+  
+  footer a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
   
 

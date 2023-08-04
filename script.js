@@ -114,6 +114,11 @@ const handleSubmit = async (event) => {
 
 let leaveForm = document.getElementById('leave-form');
 leaveForm.addEventListener('submit', handleSubmit);
+document.getElementById('help-button').addEventListener('click', () => {
+  
+  alert('If you need assistance, please contact us.\n\nFacebook: Kim Obadia\nInstagram:obadiakimmaasai03 \nWhatsApp: 0702707326\nEmail: obadiakimmaasai03@gmail.com');
+});
+
 
 document.addEventListener('DOMContentLoaded', async () => {
   const leaveRequests = fetchLeaveRequests();
